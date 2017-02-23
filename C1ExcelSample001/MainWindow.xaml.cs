@@ -52,7 +52,7 @@ namespace C1ExcelSample001
 
 
             // 保存する
-            book.Save(@"C:\Users\macni\Documents\mybook.xls");
+            book.Save(@"C:\<ドキュメントフォルダのパス>\mybook.xls");
         }
     }
 }
